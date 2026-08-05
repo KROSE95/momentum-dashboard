@@ -1,11 +1,9 @@
 
+import Dashboard from './pages/Dashboard';
+
 
 function App() {
-  return (
-    <main>
-      <h1>Momentum</h1>
-    </main>
-  )
-}
+  return 
+    <Dashboard />;}
 
 export default App
